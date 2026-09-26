@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Aero.App/Aero.App.csproj" />
+    <Project Path="src/Aero.Core/Aero.Core.csproj" />
+    <Project Path="src/Aero.Data/Aero.Data.csproj" />
+    <Project Path="src/Aero.Infrastructure/Aero.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Aero.Tests/Aero.Tests.csproj" />
+  </Folder>
+</Solution>
